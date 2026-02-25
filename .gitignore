@@ -1,0 +1,24 @@
+# Models and Checkpoints
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.onnx
+*.pb
+saved_models/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
